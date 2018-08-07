@@ -28,3 +28,9 @@ put "Right foot steps right and back"
 sleep(0.5)
 puts "Left foot crosses over right"
 sleep(0.5)
+puts "Right foot steps right"
+sleep(0.5)
+puts "Turn"
+sleep(1)
+end 
+end 
