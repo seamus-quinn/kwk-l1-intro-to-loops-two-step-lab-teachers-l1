@@ -34,3 +34,7 @@ puts "Turn"
 sleep(1)
 end 
 end 
+
+def how_many_steps?
+  steps = 0 
+  loop do
